@@ -1,3 +1,6 @@
+# This is the example config from https://github.com/buildbot/buildbot-docker-example-config
+# with the "db.env" file included directly here so the compose file can be pasted into Rancher
+# and a stack spun up easily.
 version: '2'
 services:
   buildbot:
